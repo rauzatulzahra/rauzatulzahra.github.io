@@ -27,14 +27,15 @@
 #   url = "/tutorial/lorem/"
 
 [[main]]
+  name = "Blog"
+  url = "/id/blog/"
+  weight = 10
+[[main]]
   name = "Dokumentasi"
   url = "/id/docs/prologue/selamat-datang/"
 # url = "/docs/1.0/prologue/introduction/"
-  weight = 10
-[[main]]
-  name = "Blog"
-  url = "/id/blog/"
-  weight = 30
+  weight = 20
+
 
 # [[social]]
 #   name = "Twitter"
