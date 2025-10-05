@@ -1,7 +1,7 @@
 # Hugo
 title = "Rauzatul Zahra"
 description = "Aku menulis bukan untuk bercerita, melainkan untuk berbisik. Kata-kata di sini lahir dari luka, hening, dan sesal—namun tetap mencari cahaya di tengah gelap. Jika larik ini menyentuhmu, anggaplah itu sebagai cermin samar dari jiwamu sendiri."
-images = ["images/smile.jpg"]
+images = ["cover.png"]
 
 # mainSections
 mainSections = ["blog"]
