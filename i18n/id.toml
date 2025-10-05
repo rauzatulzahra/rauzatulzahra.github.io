@@ -1,0 +1,60 @@
+[404_text]
+other = "Halaman yang Anda cari tidak ada atau telah dipindahkan."
+
+[404_title]
+other = "Page not found :("
+
+[browse]
+other = "Cari"
+
+[chapter_next]
+other = "Berikutnya"
+
+[chapter_previous]
+other = "Sebelumnya"
+
+[edit_page]
+other = "Sunting halaman ini melalui"
+
+[get_started]
+other = "Contoh panduan"
+
+[home]
+other = "Halaman utama"
+
+[in]
+other = "di"
+
+[by]
+other = "oleh"
+
+[last_updated]
+other = "Diperbarui pada"
+
+[minute]
+one = "minute"
+other = "menit"
+
+[on_this_page]
+other = "Di halaman ini"
+
+[reading_time]
+other = "Estimasi baca"
+
+[search_loading]
+other = "Memuat indeks pencarian"
+
+[search_no_recent]
+other = "Tidak ada pencarian terbaru"
+
+[search_no_results]
+other = "Tidak ada hasil"
+
+[search_placeholder]
+other = "Cari"
+
+[search_title]
+other = "Cari"
+
+[video_unsupported]
+other = "Browser Anda tidak mendukung video tersemat, tapi jangan khawatir, Anda bisa <a href=\"{{ .RelPermalink }}\">mengunduhnya</a> dan menontonnya dengan pemutar video favorit Anda!"
