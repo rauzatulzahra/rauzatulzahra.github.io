@@ -1,5 +1,5 @@
 title = "Rauzatul Zahra"
-baseurl = "http://localhost/"
+baseurl = "https://rauzatulzahra.github.io/"
 disableAliases = true
 disableHugoGeneratorInject = true
 # disableKinds = ["taxonomy", "term"]
@@ -16,6 +16,10 @@ disableLanguages = []
 defaultContentLanguageInSubdir = true
 
 # copyRight = "Copyright (c) 2020-2024 Thulite"
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-2FWYM5P5H7'
 
 [build.buildStats]
   enable = true

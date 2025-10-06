@@ -1,5 +1,6 @@
 ---
 title: "Lorem Ipsum"
+url: "/id/blog/lorem-ipsum/"
 description: "Lorem ipsum dolor sit amet."
 summary: "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos."
 date: 2025-10-05T14:30:54+07:00
@@ -17,8 +18,6 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In commodo consequat urna, venenatis hendrerit nibh vestibulum at. Nunc id tortor bibendum, fermentum arcu in, semper nulla. Sed scelerisque dignissim libero nec pretium. Vestibulum nec volutpat dolor. Quisque purus sapien, luctus quis erat a, posuere elementum magna. Nulla facilisi. Duis aliquet pharetra sem quis cursus. Nullam nunc sem, dictum ac nisl eu, ultricies feugiat diam. Nam ultricies tortor nunc, posuere venenatis eros luctus vel. Duis at tempus nisi. Phasellus eu ligula turpis. Phasellus egestas varius arcu, in pretium lectus luctus id. Maecenas sed est at elit posuere sagittis. Donec rhoncus, enim vitae pretium blandit, enim tortor sodales ex, vel interdum felis nunc et turpis.
-
 Nam quis arcu venenatis, ornare erat eget, fermentum lacus. Nam semper porttitor eros ac congue. Quisque in posuere lorem. Phasellus ut vehicula velit, in cursus ligula. Sed tristique gravida facilisis. Nulla facilisis, nisl sed ornare ullamcorper, erat risus placerat arcu, ac pellentesque tortor nisl quis elit. Integer in arcu dolor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam ut lectus ac urna fringilla congue eu eu purus. Fusce quis cursus risus, in sagittis quam. Vivamus ac condimentum dui. Donec vitae ipsum vitae lorem sollicitudin venenatis sed vel dui. In varius mi vel tellus sodales, et sodales ante porta. Suspendisse iaculis, lorem nec hendrerit venenatis, magna quam euismod metus, at posuere justo turpis vel neque.
 
 Pellentesque nibh neque, pretium eu nunc quis, mattis maximus nibh. Sed pulvinar felis tellus, sed fermentum mi varius non. Ut vestibulum ex quis dolor faucibus, tincidunt viverra tortor consectetur. Etiam sollicitudin orci sem, interdum varius nibh suscipit eget. Praesent ultricies rutrum orci, eu vehicula ante pretium sed. Donec quis convallis magna. Quisque feugiat tristique enim sed egestas. Sed ultrices enim purus, ac egestas risus luctus a. Cras velit lacus, consectetur sit amet dignissim in, dictum a ligula. Aliquam at eros eu ex rhoncus eleifend luctus at augue. Nunc varius elit at ligula porta mollis. Nulla rutrum lorem eget bibendum facilisis. Nullam ornare, metus et finibus tincidunt, orci dolor facilisis justo, ut tempor dolor elit a elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
