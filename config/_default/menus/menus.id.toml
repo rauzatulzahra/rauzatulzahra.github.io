@@ -77,7 +77,7 @@
 #   weight = 30
 
 [[footer]]
-  name = "Ketentuan Privasi"
+  name = "Kebijakan Privasi"
   url = "/id/privacy/"
   weight = 10
 
