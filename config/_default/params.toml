@@ -20,8 +20,8 @@ mainSections = ["blog"]
   containerBreakpoint = "lg" # "", "sm", "md", "lg" (default), "xl", "xxl", or "fluid"
 
   ## Button
-  navBarButton = true # false (default) or true
-  navBarButtonUrl = "id/contributors/rauzatul-zahra/"
+  navBarButton = false # false (default) or true
+  navBarButtonUrl = "/id/contributors/rauzatul-zahra/"
   navBarButtonText = "Tentang"
 
   # FlexSearch
@@ -66,6 +66,7 @@ mainSections = ["blog"]
   sectionFooter = true # false (default) or true
 
   # Blog
+  avatar = true
   relatedPosts = true # false (default) or true
   imageList = true # true (default) or false
   imageSingle = true # true (default) or false
@@ -110,8 +111,8 @@ mainSections = ["blog"]
     loading = "lazy" # eager or lazy (default)
     widths = [480, 576, 768, 1025, 1200, 1440] # [640, 768, 1024, 1366, 1600, 1920] for example
     sizes = "auto" # 100vw (default), 75vw, or auto for example
-    process = "" # "fill 1600x900" or "fill 2100x900" for example
-    lqip = "16x webp q20" # "16x webp q20" or "21x webp q20" for example
+    process = "fit 2100x900" # "fill 1600x900" or "fill 2100x900" for example
+    lqip = "21x webp q20" # "16x webp q20" or "21x webp q20" for example
 
 # Inline SVG (@thulite/inline-svg)
 [inline_svg]
@@ -131,7 +132,7 @@ mainSections = ["blog"]
   [seo.schemas]
     type = "Person" # Organization (default) or Person
     logo = "favicon-512x512.png" # Logo of Organization — favicon-512x512.png (default)
-    name = "Reza Hidayat M." # Name of Organization or Person
+    name = "Rauzatul Zahra" # Name of Organization or Person
     sameAs = ["https://github.com/rezahidayatm/"] # E.g. ["https://github.com/thuliteio/thulite", "https://fosstodon.org/@thulite"]
     images = ["cover.png"] # ["cover.png"] (default)
     article = [] # Article sections

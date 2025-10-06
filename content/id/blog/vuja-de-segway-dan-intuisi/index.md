@@ -1,6 +1,6 @@
 ---
 title: "Vuja de, Segway dan Intuisi"
-url: "/blog/vuja-de-segway-dan-intuisi/"
+url: "/id/blog/vuja-de-segway-dan-intuisi/"
 description: "Sebuah opini berdasarkan buku ORIGINALS karya Adam Grant."
 summary: "Bertahun-tahun yang lalu, para psikolog menemukan ada dua jalan menuju keberhasilan yaitu: konformitas dan orisinalitas. Konformitas adalah mengikuti orang kebanyakan di jalur konvensional dan menjaga status quo (keadaan sebagaimana adanya). Sedangkan orisinalitas merupakan memilih jalur yang lebih jarang dilalui, tetapi akhirnya menjadikan segala sesuatu menjadi lebih baik."
 date: 2024-10-17T12:36:48+07:00

@@ -6,7 +6,6 @@ date: 2024-10-18T20:53:52+07:00
 lastmod: 2024-10-18T20:53:52+07:00
 draft: false
 avatar: "amelia-zahara.jpg"
-weight: 10
 seo:
   title: "Amelia Zahara" # custom title (optional)
   description: "Dosen Jurusan Pendidikan Geografi, Universitas Syiah Kuala." # custom description (recommended)
@@ -18,3 +17,5 @@ seo:
 [{{< inline-svg src="outline/brand-blogger" stroke="#ffffff" height="3rem" width="3rem" class="svg-inline-custom" >}}](https://ameliazaharas.blogspot.com/)
 [{{< inline-svg src="outline/brand-instagram" stroke="#ffffff" height="3rem" width="3rem" class="svg-inline-custom" >}}](https://www.instagram.com/ameliazaharas/)
 [{{< inline-svg src="outline/brand-twitter" stroke="#ffffff" height="3rem" width="3rem" class="svg-inline-custom" >}}](https://x.com/ameliyazahara)
+
+---
