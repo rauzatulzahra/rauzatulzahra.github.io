@@ -1,5 +1,5 @@
 ---
-title: "Privacy Policy"
+title: "Kebijakan Privasi"
 description: ""
 summary: ""
 date: 2024-10-16T18:49:59+07:00
@@ -12,9 +12,7 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
-**Kebijakan Privasi untuk Web Zahra**
-
-Selamat datang di WebBarengReza! Kami menghargai privasi pengunjung kami dan berkomitmen untuk melindunginya. Kebijakan Privasi ini menjelaskan jenis informasi yang kami kumpulkan dan catat saat Anda mengunjungi situs web kami, serta bagaimana kami menggunakannya.
+Selamat datang di Web Rauzatul Zahra! Kami menghargai privasi pengunjung kami dan berkomitmen untuk melindunginya. Kebijakan Privasi ini menjelaskan jenis informasi yang kami kumpulkan dan catat saat Anda mengunjungi situs web kami, serta bagaimana kami menggunakannya.
 
 Jika Anda memiliki pertanyaan lebih lanjut atau memerlukan informasi lebih lanjut tentang Kebijakan Privasi kami, jangan ragu untuk menghubungi kami.
 
@@ -55,4 +53,4 @@ Kami dapat memperbarui Kebijakan Privasi kami dari waktu ke waktu. Kami akan mem
 
 **6. Hubungi Kami**
 
-Jika Anda memiliki pertanyaan tentang Kebijakan Privasi ini, Anda dapat menghubungi kami melalui email di: <a href="mailto:halorezam@gmail.com">halorezam@gmail.com</a>
+Jika Anda memiliki pertanyaan tentang Kebijakan Privasi ini, Anda dapat menghubungi kami melalui email di: [halorezam@gmail.com](mailto:halorezam@gmail.com)

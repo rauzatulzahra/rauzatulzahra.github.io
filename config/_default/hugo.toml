@@ -10,6 +10,9 @@ languageCode = "id-ID"
 rssLimit = 10
 summarylength = 20 # 70 (default)
 
+# https://gohugo.io/getting-started/configuration/#timeout
+timeout = "60s" # "30s" (default)
+
 # Multilingual
 defaultContentLanguage = "id"
 disableLanguages = []
@@ -35,13 +38,13 @@ defaultContentLanguageInSubdir = true
   notAlternative = true
 
 # Add output format for section sitemap.xml
-[outputFormats.SITEMAP]
-  mediaType = "application/xml"
-  baseName = "sitemap"
-  isHTML = false
-  isPlainText = true
-  noUgly = true
-  rel  = "sitemap"
+[outputFormats.sitemap]
+mediaType = "application/xml"
+baseName = "sitemap"
+isHTML = false
+isPlainText = true
+noUgly = true
+rel  = "sitemap"
 
 [sitemap]
   changefreq = "monthly"
@@ -49,9 +52,12 @@ defaultContentLanguageInSubdir = true
   priority = 0.5
 
 [caches]
+  [caches.getresource]
+    dir = ':resourceDir/_gen'
+    maxAge = -1
   [caches.getjson]
     dir = ":cacheDir/:project"
-    maxAge = -1 # "30m"
+    maxAge = "30m"
 
 [taxonomies]
   contributor = "contributors"
@@ -89,5 +95,3 @@ defaultContentLanguageInSubdir = true
   hint = "photo"
   quality = 85
   resampleFilter = "Lanczos"
-
-

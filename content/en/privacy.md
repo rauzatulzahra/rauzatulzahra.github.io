@@ -53,4 +53,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 **6. Contact Us**
 
-If you have any questions about this Privacy Policy, you can contact us via email at: \<a href="mailto:halorezam@gmail.com"\>halorezam@gmail.com\</a\>
+If you have any questions about this Privacy Policy, you can contact us via email at: [halorezam@gmail.com](mailto:halorezam@gmail.com)

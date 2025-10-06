@@ -1,13 +1,20 @@
 # Hugo
 title = "Rauzatul Zahra"
 description = "Aku menulis bukan untuk bercerita, melainkan untuk berbisik. Kata-kata di sini lahir dari luka, hening, dan sesal—namun tetap mencari cahaya di tengah gelap. Jika larik ini menyentuhmu, anggaplah itu sebagai cermin samar dari jiwamu sendiri."
-images = ["cover.png"]
+images = ["images/flower.jpeg"]
 
 # mainSections
 mainSections = ["blog"]
 
 # [social]
 #   twitter = "getdoks"
+
+[add_ons]
+  carbonAds = false # false (default) or true
+  ethicalAds = false # false (default) or true
+  docSearch = true # false (default) or true
+  plausibleDomain = "rauzatulzahra.github.io" # "example.com" (default)
+  keila = false # false (default) or true
 
 # Doks (@thulite/doks-core)
 [doks]
@@ -45,8 +52,8 @@ mainSections = ["blog"]
 
   # Nav
   sectionNav = ["docs"] # ["docs"] (default) or list of sections (e.g. ["docs", "guides"])
-  toTopButton = false # false (default) or true
-  breadcrumbTrail = false # false (default) or true
+  toTopButton = true # false (default) or true
+  breadcrumbTrail = true # false (default) or true
   headlineHash = true # true (default) or false
   scrollSpy = true # true (default) or false
 
@@ -96,10 +103,10 @@ mainSections = ["blog"]
 
 # Debug
 [render_hooks.image]
-  errorLevel = 'warning' # ignore (default), warning, or error (fails the build)
+  errorLevel = 'ignore' # ignore (default), warning, or error (fails the build)
 
 [render_hooks.link]
-  errorLevel = 'warning' # ignore (default), warning, or error (fails the build)
+  errorLevel = 'ignore' # ignore (default), warning, or error (fails the build)
   highlightBroken = false # true or false (default)
 
 # Images (@thulite/images)
@@ -111,7 +118,7 @@ mainSections = ["blog"]
     widths = [480, 576, 768, 1025, 1200, 1440] # [640, 768, 1024, 1366, 1600, 1920] for example
     sizes = "auto" # 100vw (default), 75vw, or auto for example
     process = "fit 2100x900" # "fill 1600x900" or "fill 2100x900" for example
-    lqip = "21x webp q20" # "16x webp q20" or "21x webp q20" for example
+    lqip = "16x webp q20" # "16x webp q20" or "21x webp q20" for example
 
 # Inline SVG (@thulite/inline-svg)
 [inline_svg]
@@ -132,8 +139,8 @@ mainSections = ["blog"]
     type = "Person" # Organization (default) or Person
     logo = "favicon-512x512.png" # Logo of Organization — favicon-512x512.png (default)
     name = "Rauzatul Zahra" # Name of Organization or Person
-    sameAs = ["https://github.com/rezahidayatm/"] # E.g. ["https://github.com/thuliteio/thulite", "https://fosstodon.org/@thulite"]
-    images = ["cover.png"] # ["cover.png"] (default)
+    sameAs = ["https://www.instagram.com/rauzatul_zahra_64/"] # E.g. ["https://github.com/thuliteio/thulite", "https://fosstodon.org/@thulite"]
+    images = ["images/flower.png"] # ["cover.png"] (default)
     article = [] # Article sections
     newsArticle = [] # NewsArticle sections
     blogPosting = ["blog"] # BlogPosting sections
