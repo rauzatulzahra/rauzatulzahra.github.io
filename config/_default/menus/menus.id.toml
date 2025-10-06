@@ -30,11 +30,11 @@
   name = "Blog"
   url = "/id/blog/"
   weight = 10
-[[main]]
-  name = "Dokumentasi"
-  url = "/id/docs/prologue/selamat-datang/"
-# url = "/docs/1.0/prologue/introduction/"
-  weight = 20
+# [[main]]
+#   name = "Dokumentasi"
+#   url = "/id/docs/prologue/selamat-datang/"
+# # url = "/docs/1.0/prologue/introduction/"
+#   weight = 20
 
 [[social]]
   name = "Instagram"

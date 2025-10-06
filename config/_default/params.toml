@@ -45,7 +45,7 @@ mainSections = ["blog"]
 
   # Nav
   sectionNav = ["docs"] # ["docs"] (default) or list of sections (e.g. ["docs", "guides"])
-  toTopButton = true # false (default) or true
+  toTopButton = false # false (default) or true
   breadcrumbTrail = false # false (default) or true
   headlineHash = true # true (default) or false
   scrollSpy = true # true (default) or false
@@ -66,18 +66,17 @@ mainSections = ["blog"]
   sectionFooter = true # false (default) or true
 
   # Blog
-  avatar = true
   relatedPosts = true # false (default) or true
   imageList = true # true (default) or false
   imageSingle = true # true (default) or false
 
   # Repository
-  editPage = false # false (default) or true
-  lastMod = false # false (default) or true
-  repoHost = "GitHub" # GitHub (default), Gitea, GitLab, Bitbucket, or BitbucketServer
-  docsRepo = "https://github.com/h-enk/doks"
-  docsRepoBranch = "main" # main (default), master, or <branch name>
-  docsRepoSubPath = "" # "" (none, default) or <sub path>
+  # editPage = false # false (default) or true
+  # lastMod = false # false (default) or true
+  # repoHost = "GitHub" # GitHub (default), Gitea, GitLab, Bitbucket, or BitbucketServer
+  # docsRepo = "https://github.com/h-enk/doks"
+  # docsRepoBranch = "main" # main (default), master, or <branch name>
+  # docsRepoSubPath = "" # "" (none, default) or <sub path>
 
   krokiURL = "https://kroki.io" # "https://kroki.io" (default) or custom URL like http://localhost:8000.
 
@@ -97,10 +96,10 @@ mainSections = ["blog"]
 
 # Debug
 [render_hooks.image]
-  errorLevel = 'ignore' # ignore (default), warning, or error (fails the build)
+  errorLevel = 'warning' # ignore (default), warning, or error (fails the build)
 
 [render_hooks.link]
-  errorLevel = 'ignore' # ignore (default), warning, or error (fails the build)
+  errorLevel = 'warning' # ignore (default), warning, or error (fails the build)
   highlightBroken = false # true or false (default)
 
 # Images (@thulite/images)
