@@ -92,7 +92,6 @@
       "created-date",
       "current",
       "d-flex",
-      "d-inline",
       "d-inline-flex",
       "d-lg-block",
       "d-lg-none",
@@ -163,8 +162,6 @@
       "modal-fullscreen-md-down",
       "modal-header",
       "modal-title",
-      "ms-0",
-      "ms-1",
       "ms-2",
       "ms-3",
       "ms-auto",
@@ -174,6 +171,7 @@
       "mt-3",
       "mt-4",
       "mt-n3",
+      "mx-1",
       "mx-2",
       "mx-auto",
       "my-3",
@@ -258,6 +256,7 @@
       "title",
       "title-submitted",
       "visually-hidden",
+      "w-auto",
       "wrap"
     ],
     "ids": [
