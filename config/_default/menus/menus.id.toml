@@ -81,6 +81,11 @@
   url = "/id/privacy/"
   weight = 10
 
+[[footer]]
+  name = "Tentang"
+  url = "/id/contributors/rauzatul-zahra/"
+  weight = 10
+
 # [[footer]]
 #   name = "Terms of Service"
 #   url = "/terms/"
