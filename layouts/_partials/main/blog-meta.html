@@ -13,7 +13,7 @@
       &nbsp;{{ i18n "by" }}&nbsp;
       {{- range $index, $contributor := . -}}
         {{- if gt $index 0 }}{{ if eq $index $last }} and {{ else }}, {{ end }}{{ end -}}
-        {{- with $.Site.GetPage "taxonomyTerm" (printf "/contributors/" (urlize .)) -}}
+        {{- with $.Site.GetPage "taxonomyTerm" (printf "contributors/%s" (urlize .)) -}}
           {{ if .Params.avatar -}}
             {{ $image := .Resources.GetMatch (printf "**%s" .Params.avatar) -}}
             {{ $i := $image.Process "fill 168x168" -}}
@@ -21,7 +21,7 @@
             <img class="lazyload blur-up rounded-circle d-inline ms-1" src="{{ $l.RelPermalink }}" data-src="{{ $i.RelPermalink }}" alt="{{ .Title }}" width="42" height="42" loading="lazy" decoding="async" fetch-priority="auto">
           {{ end -}}
         {{- end -}}
-        <a class="stretched-link position-relative ms-1" href="{{ "contributors/" | relLangURL }}{{ . | urlize }}/">{{ . }}</a>
+        <a class="stretched-link position-relative ms-1" href="{{ "/contributors/" | relLangURL }}{{ . | urlize }}/">{{ . }}</a>
       {{- end }}
     {{- end -}}
     <span class="mx-2">—</span>
