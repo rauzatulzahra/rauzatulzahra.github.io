@@ -2,7 +2,7 @@
 # isi "" dengan judul blog. misal, "Vuja De Segway". - harus ada
 title: ""
 
-url: ""             # boleh dikosongkan
+url: ""    # boleh dikosongkan
 
 # deskripsi blog. misal, "Sinopsis buku". - boleh kosong
 description: ""
@@ -32,10 +32,10 @@ homepage: false
 
 # samakan dengan diatas jika ada, kosongkan jika tidak
 seo:
-  title: "" # custom title (optional)
-  description: "" # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+  title: ""         # custom title (optional)
+  description: ""   # custom description (recommended)
+  canonical: ""     # custom canonical URL (optional)
+  noindex: false    # false (default) or true
 
 # tulis blog setelah --- dibawah ini
 ---
