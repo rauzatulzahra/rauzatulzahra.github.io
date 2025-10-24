@@ -1,7 +1,7 @@
 ---
 title: "Ketika Hujan Menghapus Nama Meulu"
 description: "Sebuah Cerpen"
-summary: "Gerimis turun sejak sore. Langit Aceh kelabu, berat seperti menahan sesuatu yang tidak sanggup lagi ditampungnya. Bau tanah basah menyeruak dari halaman rumah kami yang berlumpur, bercampur dengan aroma kayu basah dari dinding papan yang sudah mulai lapuk di ujung-ujungnya. Aku, ayah, ibu, dan kakak duduk di ruang tengah —ditemani lampu teplok kecil yang cahayanya bergetar karena angin yang menyelinap dari celah jendela."
+summary: "Gerimis turun sejak sore. Langit Aceh kelabu, berat seperti menahan sesuatu yang tidak sanggup lagi ditampungnya. Bau tanah basah menyeruak dari halaman rumah kami yang berlumpur, bercampur dengan aroma kayu basah dari dinding papan yang sudah mulai lapuk di ujung-ujungnya. Aku, ayah, ibu, dan kakak duduk di ruang tengah — ditemani lampu teplok kecil yang cahayanya bergetar karena angin yang menyelinap dari celah jendela."
 date: 2025-10-19T08:40:59+07:00
 lastmod: 2025-10-19T08:40:59+07:00
 draft: false
@@ -13,7 +13,7 @@ pinned: false
 homepage: false
 seo:
   title: "Ketika Hujan Menghapus Nama Meulu" # custom title (optional)
-  description: "Gerimis turun sejak sore. Langit Aceh kelabu, berat seperti menahan sesuatu yang tidak sanggup lagi ditampungnya. Bau tanah basah menyeruak dari halaman rumah kami yang berlumpur, bercampur dengan aroma kayu basah dari dinding papan yang sudah mulai lapuk di ujung-ujungnya. Aku, ayah, ibu, dan kakak duduk di ruang tengah —ditemani lampu teplok kecil yang cahayanya bergetar karena angin yang menyelinap dari celah jendela." # custom description (recommended)
+  description: "Gerimis turun sejak sore. Langit Aceh kelabu, berat seperti menahan sesuatu yang tidak sanggup lagi ditampungnya. Bau tanah basah menyeruak dari halaman rumah kami yang berlumpur, bercampur dengan aroma kayu basah dari dinding papan yang sudah mulai lapuk di ujung-ujungnya. Aku, ayah, ibu, dan kakak duduk di ruang tengah — ditemani lampu teplok kecil yang cahayanya bergetar karena angin yang menyelinap dari celah jendela." # custom description (recommended)
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
@@ -49,11 +49,11 @@ Kakak sering membantuku belajar. Ia pandai berhitung, hafal ayat-ayat, dan menul
 
 “Kalau besar nanti, aku mau seperti kakak,” kataku suatu hari.
 Ia tertawa, mengacak rambutku.
-“Kalau kau mau seperti aku, kau harus siap jadi batu di jalan —diinjak, tapi tak hancur.”
+“Kalau kau mau seperti aku, kau harus siap jadi batu di jalan — diinjak, tapi tak hancur.”
 
 Aku tidak paham maksudnya waktu itu. Tapi kini, setiap kali mengingatnya, dada seperti diikat dengan sesuatu yang dingin dan berat.
 
-Malam itu, setelah canda tentang hantu, kami semua masih duduk diam. Ayah membaca Al-Qur’an pelan di sudut ruangan. Ibu menyiapkan air hangat di dapur. Aku hampir tertidur ketika tiba-tiba —suara patahan dahan itu kembali terdengar. Kali ini lebih keras. Diikuti derap langkah berat yang teratur, menghantam tanah becek di luar rumah.
+Malam itu, setelah canda tentang hantu, kami semua masih duduk diam. Ayah membaca Al-Qur’an pelan di sudut ruangan. Ibu menyiapkan air hangat di dapur. Aku hampir tertidur ketika tiba-tiba — suara patahan dahan itu kembali terdengar. Kali ini lebih keras. Diikuti derap langkah berat yang teratur, menghantam tanah becek di luar rumah.
 
 Kakak menatapku sekilas. Matanya tidak lagi tenang. Aku bisa merasakan jantungku berdetak di leher. Dan sebelum sempat kami melakukan apa pun, terdengar ketukan keras di pintu.
 Dua kali.
@@ -73,14 +73,14 @@ Ibu menangis, memohon, “Kami tidak tahu apa-apa, Tuan. Kami hanya orang biasa,
 
 Satu dari mereka menampar ibu begitu keras sampai wajahnya membentur dinding. Aku melihat darah mengalir di sudut bibirnya. Ayah mencoba melawan, tapi mereka memukulnya dengan gagang senjata. Darah menetes di lantai, bercampur dengan lumpur yang mereka bawa dari luar.
 
-Semua terjadi begitu cepat, tapi di kepalaku terasa lambat —seperti waktu sengaja memperlambat dirinya agar aku bisa menyaksikan semuanya satu per satu.
+Semua terjadi begitu cepat, tapi di kepalaku terasa lambat — seperti waktu sengaja memperlambat dirinya agar aku bisa menyaksikan semuanya satu per satu.
 
 “Siapa yang namanya Meulu!” bentak mereka lagi. Kakak masih diam. Wajahnya tegang, tapi matanya tidak goyah.
 
 Mereka menarik ibu, menjauhkannya dari kakak. Aku menjerit agar mereka berhenti, tapi mereka tidak peduli. Ibu meronta, memohon, tapi hanya mendapat dorongan kasar.
 
 Ayah sudah tidak sanggup berdiri lagi. Ketika rambut ibu dijambak dan ayah dipukul hingga darah menetes ke lantai,
-barulah aku mendengar suara kakak —tegas, bening, dan tenang.
+barulah aku mendengar suara kakak — tegas, bening, dan tenang.
 
 “Aku Meulu.”
 
@@ -88,9 +88,9 @@ Malam itu, suara kakakku menembus semua suara hujan.
 Ia berdiri di tengah ruangan dengan wajah tegak, seolah tidak lagi takut pada apa pun. Mereka segera menahannya.
 Tangannya diborgol.
 
-Ibu berlari memeluknya, tapi salah satu dari mereka mendorong ibu hingga jatuh. Tangisan ibu menggema, tapi tidak ada yang mendengarkan. Kakakku sempat menatapku sebelum mereka menyeretnya keluar. Tatapan itu tidak berisi ketakutan, tapi semacam pesan —agar aku tidak lupa siapa dia.
+Ibu berlari memeluknya, tapi salah satu dari mereka mendorong ibu hingga jatuh. Tangisan ibu menggema, tapi tidak ada yang mendengarkan. Kakakku sempat menatapku sebelum mereka menyeretnya keluar. Tatapan itu tidak berisi ketakutan, tapi semacam pesan — agar aku tidak lupa siapa dia.
 
-Pintu rumah dibanting. Sepatu-sepatu mereka meninggalkan jejak lumpur di lantai kayu. Hujan masih turun. Dan malam kembali sunyi —tapi bukan sunyi yang tenang, melainkan sunyi yang ditinggalkan sesuatu.
+Pintu rumah dibanting. Sepatu-sepatu mereka meninggalkan jejak lumpur di lantai kayu. Hujan masih turun. Dan malam kembali sunyi — tapi bukan sunyi yang tenang, melainkan sunyi yang ditinggalkan sesuatu.
 
 Ibu berlari ke luar, memanggil nama kakak di tengah hujan, sampai suaranya serak. Ayah mencoba berdiri, tapi tubuhnya goyah. Aku menatap dari balik pintu, melihat lampu mobil tentara menjauh di tengah kabut. Lalu hilang.
 
@@ -143,11 +143,9 @@ Dan aku... aku berlari ke luar rumah, menatap langit yang tiba-tiba diguyur huja
 
 Kini aku sudah bukan anak empat belas tahun lagi. Tapi setiap kali hujan turun, aku masih mendengar suara patahan dahan dari kebun di belakang rumah. Masih bisa mencium bau tanah basah yang sama, dan mendengar ketukan samar di pintu kayu.
 
-Terkadang aku berpikir, mungkin itu hanya angin. Tapi di malam-malam tertentu, saat hujan turun lebih deras dari biasanya, aku tahu —itu bukan angin. Itu suara hantu yang dulu kakakku sebut.
+Terkadang aku berpikir, mungkin itu hanya angin. Tapi di malam-malam tertentu, saat hujan turun lebih deras dari biasanya, aku tahu — itu bukan angin. Itu suara hantu yang dulu kakakku sebut.
 
 Dan benarlah, orang berisik di luar yang kakakku sebut sebagau hantu, akhirnya memang menjadikannya hantu.
-Sebab sejak malam itu —Meulu tidak pernah benar-benar kembali.mTapi darahnya tetap mengalir di nadi kami. Dalam keberanian ibu yang terus mencari tanpa lelah. Dalam diam ayah yang menyimpan rasa bersalah. Dan dalam diriku —adik kecilnya, yang tumbuh dengan luka, tapi juga dengan tekad untuk mengingat.
+Sebab sejak malam itu — Meulu tidak pernah benar-benar kembali.mTapi darahnya tetap mengalir di nadi kami. Dalam keberanian ibu yang terus mencari tanpa lelah. Dalam diam ayah yang menyimpan rasa bersalah. Dan dalam diriku — adik kecilnya, yang tumbuh dengan luka, tapi juga dengan tekad untuk mengingat.
 
-Karena orang-orang seperti kakakku tidak pernah mati sepenuhnya. Mereka hanya menunggu di sisi lain sejarah —
-hingga namanya dipanggil kembali, bukan oleh tentara,
-tapi oleh mereka yang berani menuliskannya dengan jujur.
+Karena orang-orang seperti kakakku tidak pernah mati sepenuhnya. Mereka hanya menunggu di sisi lain sejarah — hingga namanya dipanggil kembali, bukan oleh tentara, tapi oleh mereka yang berani menuliskannya dengan jujur.

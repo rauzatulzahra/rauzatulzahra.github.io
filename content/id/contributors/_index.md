@@ -1,7 +1,7 @@
 ---
 title: "Kontributor"
-description: "Kontributor di WebBarengReza."
-summary: "Kontributor di WebBarengReza."
+description: "Kontributor di Web Zahra."
+summary: "Kontributor di Web Zahra."
 date: 2024-10-18T20:53:37+07:00
 lastmod: 2024-10-18T20:53:37+07:00
 draft: false

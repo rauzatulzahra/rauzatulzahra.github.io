@@ -44,8 +44,8 @@ Arata: Aku mencintaimu, Chihaya.
 {{< figure src="images/308990c3-4731-487d-9de2-42c62d99f556.jpg" alt="" >}}
 {{< /card-grid >}}
 {{< card-grid >}}
-{{< figure src="images/bd74691c-7391-42b4-add2-fa881b11240b.jpg" alt="" caption="Chihaya -.-">}}
-{{< figure src="images/e69741e2-dcd7-461f-8144-2ec8a826f002.jpg" alt="" >}}
+{{< figure src="images/bd74691c-7391-42b4-add2-fa881b11240b.jpg" alt="" >}}
+{{< figure src="images/e69741e2-dcd7-461f-8144-2ec8a826f002.jpg" alt="" caption="Chihaya -.-" >}}
 {{< /card-grid >}}
 
 Nah, di saat itu si Taichi ngeliat dan menyaksikan yang terjadi di saat itu walau dia tidak tau secara pasti apa yang sedang mereka bicarakan, terlihat jelas bahwa wajahnya Taichi cemburu, dan ekspresinya si Taichi saat itu, masya Allah..
@@ -119,10 +119,10 @@ Taichi: Aku bermain karuta untukmu. Aku mendirikan klub karuta untukmu. Tapi aku
 {{< card-grid >}}
 <figure>
   <img src="images/1759d4a3-175a-4fc3-98c9-5a501dac25b9.gif" alt="">
-  <figcaption>Kyaaaa...</figcaption>
 </figure>
 <figure>
   <img src="images/c3c052e9-2902-4ffb-a5e1-a55a069c5797.gif" alt="">
+  <figcaption>Kyaaaa...</figcaption>
 </figure>
 {{< /card-grid >}}
 
