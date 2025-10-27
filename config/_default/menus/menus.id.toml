@@ -30,6 +30,10 @@
   name = "Blog"
   url = "/id/blog/"
   weight = 10
+[[main]]
+  name = "Tentang"
+  url = "/id/contributors/rauzatul-zahra/"
+  weight = 20
 # [[main]]
 #   name = "Dokumentasi"
 #   url = "/id/docs/prologue/selamat-datang/"

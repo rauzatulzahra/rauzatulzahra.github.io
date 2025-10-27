@@ -1,8 +1,8 @@
 ---
 title: "Blog"
-description: "Berisi blog berupa sinopsis, opini, trivia dan lain-lain."
-summary: "Sinopsis, Opini, dan Trivia."
-lead: "Sinopsis, Opini, dan Trivia"
+description: "Cerpen, essai ringan, refleksi, dan jurnal empatik."
+summary: "Cerpen, essai ringan, refleksi, dan jurnal empatik."
+lead: "Cerpen, essai ringan, refleksi, dan jurnal empatik."
 date: 2024-10-16T18:55:13+07:00
 lastmod: 2024-10-16T18:55:13+07:00
 draft: false
@@ -14,7 +14,7 @@ pinned: false
 homepage: false
 seo:
   title: "Blog" # custom title (optional)
-  description: "Berisi blog berupa sinopsis, opini, trivia dan lain-lain." # custom description (recommended)
+  description: "Cerpen, essai ringan, refleksi, dan jurnal empatik." # custom description (recommended)
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
